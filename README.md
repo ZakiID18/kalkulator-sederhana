@@ -22,7 +22,7 @@ Kalkulator Sederhana dibangun dengan berbagai macam produk teknologi, yaitu:
 
 ## Structure
 ...
-Tugas6_ZakiIlhamyDeaz
+kalkulator-sederhana
 |   kalkulator_sederhana.php
 |   style.css
 ...
