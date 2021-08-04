@@ -1,9 +1,9 @@
-body{
+body {
 	background: #F2F2F2;
 	font-family: sans-serif;
 }
  
-.kalkulator{
+.kalkulator {
 	width: 500px;
 	background: #0366a8;
 	margin: 200px auto;
@@ -12,7 +12,7 @@ body{
 	box-shadow: 0px 10px 20px 0px #D1D1D1;
 }
  
-.bil{
+.bil {
 	width: 465px;
 	margin: 5px;
 	border: none;
@@ -21,7 +21,7 @@ body{
 	padding: 10px;	
 }
  
-.opt{
+.opt {
 	font-size: 16pt;
 	border: none;
 	width: 238px;
@@ -30,7 +30,7 @@ body{
 	padding: 10px;
 }
  
-.tombol{
+.tombol {
 	background: #EC5159;
 	border-top: none;
 	border-right: none;
@@ -43,7 +43,7 @@ body{
 	border-bottom:4px solid #BF3D3D;;
 }
  
-.brand{
+.brand {
 	color: #eee;
 	font-size: 11pt;
 	float: right;
@@ -51,17 +51,17 @@ body{
 	margin: 12px;
 }
  
-.judul{
+.judul {
 	text-align: center;
 	color: #eee;
 	font-weight: normal;
 }
 
-.informasi{
+.informasi {
 	text-align: center;
 	color: white;
 }
 
-.bilangan{
+.bilangan {
 	color: black;
 }
